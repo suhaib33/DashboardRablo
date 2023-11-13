@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+solely Developed by Suhaib khan
+This project is a Assessment of Front end Development
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
