@@ -1,0 +1,17 @@
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 1360px;
+  height: 115px;
+  background: #fff;
+  box-shadow: 0px 4px 10px -5px rgba(0, 0, 0, 0.25);
+  .rabloicon {
+    img {
+      width: 280.83px;
+      height: 115px;
+      margin-left: 13px;
+    }
+  }
+}

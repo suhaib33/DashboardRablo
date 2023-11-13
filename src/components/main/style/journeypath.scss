@@ -1,0 +1,198 @@
+.journeypath {
+  width: 1285px;
+  height: 200px;
+  margin-left: 81px;
+
+  display: flex;
+  align-items: center;
+  gap: 130px;
+  .group1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    .step {
+      width: 73px;
+      height: 23px;
+      color: #bac5fd;
+      font-family: Poppins;
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: normal;
+      margin: 0;
+    }
+    .create {
+      width: 190px;
+      height: 32.738px;
+      color: #5271ff;
+      text-align: center;
+      font-family: Poppins;
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: normal;
+      margin: 0;
+    }
+    .tick {
+      width: 50px;
+      height: 50px;
+      margin-top: 10px;
+    }
+    .completed {
+      width: 130px;
+      height: 24px;
+      color: rgba(103, 100, 255, 0.5);
+      text-align: center;
+      font-family: Poppins;
+      font-size: 15px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: 150%; /* 22.5px */
+    }
+  }
+  .group2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    .step {
+      width: 73px;
+      height: 23px;
+      color: #bac5fd;
+      font-family: Poppins;
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: normal;
+      margin: 0;
+    }
+    .pv {
+      width: 190px;
+      height: 32.738px;
+      color: #5271ff;
+      text-align: center;
+      font-family: Poppins;
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: normal;
+      margin: 0;
+    }
+    .tick {
+      width: 50px;
+      height: 50px;
+      margin-top: 10px;
+    }
+    .completed {
+      width: 130px;
+      height: 24px;
+      color: rgba(103, 100, 255, 0.5);
+      text-align: center;
+      font-family: Poppins;
+      font-size: 15px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: 150%; /* 22.5px */
+    }
+  }
+  .group3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    .step {
+      width: 73px;
+      height: 23px;
+      color: #bac5fd;
+      font-family: Poppins;
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: normal;
+      margin: 0;
+    }
+    .cyp {
+      width: 190px;
+      height: 32.738px;
+      color: #5271ff;
+      text-align: center;
+      font-family: Poppins;
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: normal;
+      margin: 0;
+    }
+    .plus {
+      width: 50px;
+      height: 50px;
+      margin-top: 10px;
+    }
+    .cp {
+      width: 130px;
+      height: 24px;
+      color: #6764ff;
+      text-align: center;
+      font-family: Poppins;
+      font-size: 15px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: normal;
+    }
+  }
+  .group4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    .step {
+      width: 73px;
+      height: 23px;
+      color: #bac5fd;
+      font-family: Poppins;
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: normal;
+      margin: 0;
+    }
+    .ays {
+      width: 190px;
+      height: 32.738px;
+      color: #5271ff;
+      text-align: center;
+      font-family: Poppins;
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: normal;
+      margin: 0;
+    }
+    .circle {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 50px;
+      height: 50px;
+      background-color: #a4a3fe;
+      border-radius: 50%;
+      margin-top: 4px;
+    }
+
+    .plus {
+      width: 50px;
+      height: 50px;
+      margin-top: 10px;
+    }
+
+    .add {
+      width: 130px;
+      height: 24px;
+      color: #6764ff;
+
+      text-align: center;
+      font-family: Poppins;
+      font-size: 15px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: normal;
+    }
+  }
+}

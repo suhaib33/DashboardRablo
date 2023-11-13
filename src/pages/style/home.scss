@@ -1,0 +1,41 @@
+.home {
+  display: flex;
+  .top-main {
+    width: 1360px;
+    height: 115px;
+    background-color: #f8f8f8;
+    .main {
+      display: flex;
+      flex-direction: column;
+      width: 1360px;
+      height: 836px;
+      background: #f8f8f8;
+      .user-journey {
+        display: flex;
+        width: 226px;
+        height: 51px;
+        margin: 60px auto;
+        justify-content: center;
+        flex-shrink: 0;
+        color: rgba(0, 0, 0, 0.6);
+        text-align: center;
+        font-family: Poppins;
+        font-size: 30px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+        text-transform: capitalize;
+        span:nth-child(2) {
+          margin-left: 4px;
+          color: #6764ff;
+          font-family: Poppins;
+          font-size: 30px;
+          font-style: normal;
+          font-weight: 600;
+          line-height: normal;
+          text-transform: capitalize;
+        }
+      }
+    }
+  }
+}

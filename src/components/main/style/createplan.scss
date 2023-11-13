@@ -1,0 +1,57 @@
+.Rectangle877 {
+  width: 1277px;
+  height: 151px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background: #fff;
+  margin: 20px auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  .greet {
+    margin-left: 68px;
+    p:nth-child(1) {
+      margin: 0;
+      width: 485.35px;
+      height: 52.968px;
+      flex-shrink: 0;
+      color: rgba(0, 0, 0, 0.7);
+      font-family: Poppins;
+      font-size: 36px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: normal;
+    }
+    p:nth-child(2) {
+      margin: 0;
+      width: 462.457px;
+      height: 32.369px;
+      flex-shrink: 0;
+      color: rgba(0, 0, 0, 0.4);
+      font-family: Poppins;
+      font-size: 22px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      text-transform: capitalize;
+    }
+  }
+  .plan {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    p {
+      color: rgba(103, 100, 255, 0.8);
+      text-align: center;
+      font-family: Poppins;
+      font-size: 24px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: normal;
+    }
+    img {
+      margin-right: 90px;
+    }
+  }
+}

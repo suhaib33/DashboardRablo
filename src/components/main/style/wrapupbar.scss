@@ -1,0 +1,165 @@
+.rectangle880 {
+  width: 1267.554px;
+  height: 238px;
+  flex-shrink: 0;
+  border-radius: 10px;
+  background: #fff;
+  margin: 5px auto;
+  display: flex;
+  flex-direction: column;
+  img {
+    width: 89.059px;
+    height: 87.859px;
+  }
+  .wrapbar {
+    flex-shrink: 0;
+    color: rgba(0, 0, 0, 0.6);
+    font-family: Poppins;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+
+    margin: 20.3px 0 0 32px;
+  }
+  .studentinfo {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+
+    .available {
+      display: flex;
+      align-items: center;
+      margin-left: 32.05px;
+      margin-right: 25px;
+
+      width: 350px;
+      .group1 {
+        display: flex;
+        flex-direction: column;
+        margin-left: 32.55px;
+        .horizontal-line {
+          width: 200.625px;
+          height: 0px;
+          transform: rotate(-179.993deg);
+          flex-shrink: 0;
+          stroke-width: 2px;
+          stroke: rgba(0, 0, 0, 0.05);
+          border-bottom: 2px solid rgba(0, 0, 0, 0.05);
+        }
+        .astudent {
+          width: 281.666px;
+          height: 33.679px;
+          flex-shrink: 0;
+          color: #bac5fd;
+          font-family: Poppins;
+          font-size: 20px;
+          font-style: normal;
+          font-weight: 600;
+          line-height: normal;
+          margin: 0;
+        }
+        .count {
+          width: 288.216px;
+          height: 42.465px;
+          color: rgba(0, 0, 0, 0.6);
+          font-family: Poppins;
+          font-size: 25px;
+          font-style: normal;
+          font-weight: 500;
+          line-height: normal;
+          text-transform: capitalize;
+          margin-top: 12.18px;
+        }
+      }
+    }
+    .line1 {
+      margin: 0;
+    }
+    .subscribed-student {
+      display: flex;
+      align-items: center;
+      margin-left: 32.05px;
+      .group2 {
+        display: flex;
+        flex-direction: column;
+        margin-left: 32.55px;
+        .horizontal-line {
+          width: 200.625px;
+          height: 0px;
+          transform: rotate(-179.993deg);
+          flex-shrink: 0;
+          stroke-width: 2px;
+          stroke: rgba(0, 0, 0, 0.05);
+          border-bottom: 2px solid rgba(0, 0, 0, 0.05);
+        }
+        .sb {
+          width: 281.666px;
+          height: 33.679px;
+          flex-shrink: 0;
+          color: #bac5fd;
+          font-family: Poppins;
+          font-size: 20px;
+          font-style: normal;
+          font-weight: 600;
+          line-height: normal;
+          margin: 0;
+        }
+        .locked {
+          width: 163.759px;
+          height: 35.143px;
+          color: rgba(103, 100, 255, 0.8);
+          font-family: Poppins;
+          font-size: 20px;
+          font-style: normal;
+          font-weight: 700;
+          line-height: normal;
+          margin-top: 12.18px;
+        }
+      }
+    }
+    .active-batch {
+      display: flex;
+      align-items: center;
+      margin-left: 32.05px;
+      .group3 {
+        display: flex;
+        flex-direction: column;
+        margin-left: 32.55px;
+        .horizontal-line {
+          width: 200.625px;
+          height: 0px;
+          transform: rotate(-179.993deg);
+          flex-shrink: 0;
+          stroke-width: 2px;
+          stroke: rgba(0, 0, 0, 0.05);
+          border-bottom: 2px solid rgba(0, 0, 0, 0.05);
+        }
+        .ab {
+          width: 281.666px;
+          height: 33.679px;
+          flex-shrink: 0;
+          color: #bac5fd;
+          font-family: Poppins;
+          font-size: 20px;
+          font-style: normal;
+          font-weight: 600;
+          line-height: normal;
+          margin: 0;
+        }
+        .locked {
+          width: 163.759px;
+          height: 35.143px;
+          color: rgba(103, 100, 255, 0.8);
+          font-family: Poppins;
+          font-size: 20px;
+          font-style: normal;
+          font-weight: 700;
+          line-height: normal;
+          margin-top: 12.18px;
+        }
+      }
+    }
+  }
+}

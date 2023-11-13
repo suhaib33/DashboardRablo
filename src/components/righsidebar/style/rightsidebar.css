@@ -1,0 +1,90 @@
+.righsidebar {
+  flex-shrink: 0;
+  margin: 1em 1em 1em 1em;
+  width: 420px;
+  border-radius: 31.706px;
+  background: rgba(103, 100, 255, 0.3);
+}
+.righsidebar .topicons {
+  width: 90%;
+  margin: 27px auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+}
+.righsidebar .profileinfo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.righsidebar .profileinfo .profile {
+  margin-top: 250px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.righsidebar .profileinfo .profile img:nth-child(1) {
+  position: absolute;
+}
+.righsidebar .profileinfo .profile img:nth-child(2) {
+  position: absolute;
+}
+.righsidebar .profileinfo .profile img:nth-child(3) {
+  position: absolute;
+}
+.righsidebar .profileinfo .info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  margin-top: 30px;
+}
+.righsidebar .profileinfo .info p:first-child {
+  text-align: center;
+  text-shadow: 0px 4.2274112701px 4.2274112701px rgba(0, 0, 0, 0.25);
+  font-family: Poppins;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.righsidebar .profileinfo .info p:nth-child(2) {
+  margin-top: -25px;
+  color: #fff;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.righsidebar .createplan {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 30px auto;
+  width: 336.976px;
+  height: 63px;
+  flex-shrink: 0;
+  border-radius: 8px;
+  border: 1px solid #6764ff;
+  background: rgba(103, 100, 255, 0.8);
+}
+.righsidebar .createplan img {
+  margin-right: 20px;
+}
+.righsidebar .createplan p {
+  color: #fff;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}/*# sourceMappingURL=rightsidebar.css.map */
